@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\Tasks\ATMProject\ATMProject\bin\Debug\net6.0\ATMProject.exe
+C:\Users\HP\Desktop\Tasks\ATMProject\ATMProject\bin\Debug\net6.0\ATMProject.deps.json
+C:\Users\HP\Desktop\Tasks\ATMProject\ATMProject\bin\Debug\net6.0\ATMProject.runtimeconfig.json
+C:\Users\HP\Desktop\Tasks\ATMProject\ATMProject\bin\Debug\net6.0\ATMProject.dll
+C:\Users\HP\Desktop\Tasks\ATMProject\ATMProject\bin\Debug\net6.0\ref\ATMProject.dll
+C:\Users\HP\Desktop\Tasks\ATMProject\ATMProject\bin\Debug\net6.0\ATMProject.pdb
+C:\Users\HP\Desktop\Tasks\ATMProject\ATMProject\obj\Debug\net6.0\ATMProject.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\Tasks\ATMProject\ATMProject\obj\Debug\net6.0\ATMProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\Tasks\ATMProject\ATMProject\obj\Debug\net6.0\ATMProject.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\Tasks\ATMProject\ATMProject\obj\Debug\net6.0\ATMProject.AssemblyInfo.cs
+C:\Users\HP\Desktop\Tasks\ATMProject\ATMProject\obj\Debug\net6.0\ATMProject.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\Tasks\ATMProject\ATMProject\obj\Debug\net6.0\ATMProject.dll
+C:\Users\HP\Desktop\Tasks\ATMProject\ATMProject\obj\Debug\net6.0\ref\ATMProject.dll
+C:\Users\HP\Desktop\Tasks\ATMProject\ATMProject\obj\Debug\net6.0\ATMProject.pdb
+C:\Users\HP\Desktop\Tasks\ATMProject\ATMProject\obj\Debug\net6.0\ATMProject.genruntimeconfig.cache
